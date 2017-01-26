@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485433675 source:/root/Documents/Code:Blocks/Class2/AutoInsurance/main.cpp
+	<iostream>
+	<cstring>
+	<fstream>
+
